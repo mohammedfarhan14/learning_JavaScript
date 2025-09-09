@@ -11,6 +11,20 @@ The DOM Provides Functions that allow you to add, remove, and modify parts of th
 The DOM represents an HTML Document as a tree of nodes, where each node is an element, or attribute, or text.
 for example every html element is a node, every attribute is a node, and every text is a node. (every single line that we write in html or whatever html tags we use is a node.)
 
+Types of nodes:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Dom Manipulation</h1>
+</body>
+</html>
+
+
 
 3.) Selecting elements using DOM
  getElementById()
