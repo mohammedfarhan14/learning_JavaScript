@@ -3,6 +3,10 @@ JavaScript DOM Table of Content:
 !!!!!  Always try to split your problem into multiple task and work on those small chunks !!!!!
 
 1.) what is DOM
+The DOM (Document Object Model) is an API for Manipulating HTML and XML documents.
+The DOM Provides Functions that allow you to add, remove, and modify parts of the document effectively.
+
+
 2.) What is nodes and type of nodes
 3.) Selecting elements using DOM
  getElementById()
