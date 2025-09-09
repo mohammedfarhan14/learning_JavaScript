@@ -12,7 +12,7 @@ The DOM represents an HTML Document as a tree of nodes, where each node is an el
 for example every html element is a node, every attribute is a node, and every text is a node. (every single line that we write in html or whatever html tags we use is a node.)
 
 Types of nodes:
-
+HERE WE USE THE NODE NAME LIKE HEADER-NODE, BODY-NODE ETC... THOSE ARE THE TYPES OF NODES
 <!DOCTYPE html>
 <html lang="en">
 <head>
