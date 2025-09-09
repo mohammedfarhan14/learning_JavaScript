@@ -56,4 +56,15 @@ JavaScript DOM Table of Content:
  DOM Level 0 event handlers
  addEventListener() and 
  removeEventListener()
- Different Types of Event
+
+ Different Types of Events
+ mousemove:
+ mousedown:
+ mouseup:
+ mouseover:
+ mouseout:
+ keydown:
+ keyup:
+ keypress:
+ scroll:
+ 
